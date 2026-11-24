@@ -265,6 +265,7 @@ img { max-width: 100%; }
   background: var(--verde); color: #fff; font-weight: 600; font-size: .9rem;
 }
 .pessoa__foto { font-weight: 700; font-size: 1.4rem; }
+img.pessoa__foto { width: 128px; height: 128px; padding: 0; border: 3px solid var(--verde-claro); }
 .aviso { color: var(--texto-suave); font-style: italic; margin-top: 18px; }
 
 .lab__lema { display: block; margin-top: 10px; font-size: .8rem; letter-spacing: .04em; opacity: .8; }
